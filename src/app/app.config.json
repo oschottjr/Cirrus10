@@ -1,0 +1,15 @@
+{
+	"appname": "Cirrus10",
+	"scope": "FullAccess",
+	"clientid": "8F8F971E-F3A1-4133-9E6C-F835F96BA361",
+	"buyerid": "4btB3Ltvykec5ijal8JtUQ",
+	"catalogid": "4btB3Ltvykec5ijal8JtUQ",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
